@@ -1,0 +1,10 @@
+# Use Congo’s profile layout on the homepage
+homepage.layout = "profile"
+# Hide recent articles (optional for a pure landing page)
+homepage.showRecent = false
+
+# (Optional) pick a colour scheme
+colorScheme = "congo"  # avocado | cherry | fire | ocean | sapphire | slate
+
+# Hide attribution footer
+footer.showAttribution = false

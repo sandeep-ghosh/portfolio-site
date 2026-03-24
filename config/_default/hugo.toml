@@ -1,0 +1,10 @@
+# baseURL = "https://sandeep.one"
+baseURL = "https://sandeep.one"
+languageCode = "en-us"
+title = "Sandeep Ghosh"
+# theme = "congo"   # or any Hugo theme you prefer
+enableRobotsTXT = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

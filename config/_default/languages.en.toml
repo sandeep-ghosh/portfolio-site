@@ -1,0 +1,11 @@
+title = "Sandeep Ghosh"
+
+[params.author]
+name     = "Sandeep Ghosh"
+image    = "img/author.jpg"  # put the file at assets/img/author.jpg
+headline = "Software Developer • Pega • Kubernetes • GCP"
+bio      = "I build reliable, elegant systems and ship features that matter."
+links = [
+  # { email = "mailto:hello@sandeep.one" },
+  { linkedin = "https://www.linkedin.com/in/sandeepghosh1989" }
+]
