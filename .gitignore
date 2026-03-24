@@ -12,4 +12,5 @@
 node_modules/
 
 # Hugo cache
+.hugo_cache/
 .hugo_build.lock
