@@ -1,0 +1,15 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Node (if you use themes with npm)
+node_modules/
+
+# Hugo cache
+.hugo_build.lock
