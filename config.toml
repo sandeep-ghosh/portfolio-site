@@ -1,0 +1,12 @@
+baseURL = "https://sandeep.one"
+languageCode = "en-us"
+title = "Sandeep Ghosh"
+# theme = "congo"   # or any Hugo theme you prefer
+enableRobotsTXT = true
+
+
+[params]
+  author = "Sandeep Ghosh"
+
+[author]
+  name = "Sandeep Ghosh"
