@@ -1,4 +1,4 @@
-module sandeep.one
+module sandeepghosh.net
 
 go 1.25.4
 

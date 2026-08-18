@@ -6,6 +6,6 @@ image    = "img/author.jpg"  # put the file at assets/img/author.jpg
 headline = "Software Developer • Pega • Kubernetes • GCP"
 bio      = "I build reliable, elegant systems and ship features that matter."
 links = [
-  # { email = "mailto:hello@sandeep.one" },
+  # { email = "mailto:hello@sandeepghosh.net" },
   { linkedin = "https://www.linkedin.com/in/sandeepghosh1989" }
 ]
